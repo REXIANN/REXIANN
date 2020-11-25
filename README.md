@@ -1,6 +1,6 @@
 ### Hello everybody! This is REXIANN 👋
 
-- 🔭 I’m currently working on SSAFY (Samsung Software Academy For Youth 🏫)
+- 🔭 I’m currently studying on SSAFY (Samsung Software Academy For Youth 🏫)
 - 🌱 I’m currently learning JavaScript, Vuejs 👍
 - 🙏 I humbly aspire to be a web developer 🖥.
 - 💬 Feel free to ask me anything (👈you can find my e-mail address on your left) 
