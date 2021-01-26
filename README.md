@@ -1,8 +1,7 @@
 ### Hello everybody! This is REXIANN 👋
 
 - 🔭 I’ve graduated from Samsung Software Academy For Youth 🏫
-- 🌱 I’m currently working at Streami, a cryptocurrency exchange as a Frontend engineer.👍
-- 🙏 I aspire to be a web developer 🖥.
+- 🌱 I’m currently working at Streami, a cryptocurrency exchange as a Frontend engineer 👍
 - 💬 Feel free to ask me (👈you can find my e-mail address on your left) 
 - ⚡ Fun fact: I can also speak french🇫🇷, and I love play the flute🎵
 - ⚡ Faits amusants: Je parle aussi français🇫🇷, et je joue à la flute🎵
